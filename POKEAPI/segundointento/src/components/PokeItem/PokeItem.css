@@ -1,0 +1,20 @@
+.poke-cell {
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    height: 150px;
+    margin: 4px;
+    background-color: rgb(53, 53, 53);
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    border-radius: 100px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16);
+    overflow: hidden;
+}
+.poke-cell:hover{
+    color: rgb(255, 242, 0)
+}

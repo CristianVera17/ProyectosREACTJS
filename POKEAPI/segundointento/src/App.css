@@ -1,0 +1,18 @@
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 500px;
+    margin: 50px auto;
+    background-color: #000000;
+    border-radius: 10px;
+    box-shadow:  0 14px 45px rgba(0, 0, 0, 0.22), 0 18px 45px rgba(0, 0, 0, 0.22);
+    overflow: hidden;
+}
+
+.headeruno{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
